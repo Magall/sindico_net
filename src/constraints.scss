@@ -1,0 +1,22 @@
+//COLORS
+$primary:#1565c0;
+$primary-dark:#003c8f;
+$primary-light:#5e92f3;
+
+$secondary:#eeeeee;
+$secondary-dark:#bcbcbc;
+$secondary-light:#ffffff;
+
+$text-primary:#fff;
+$text-secondary:#000;
+
+//Spacing
+
+$small-spacing:8px;
+$medium-spacing:16px;
+$big-spacing:32px;
+
+//shortcuts
+.container{
+    padding: $small-spacing;
+}
