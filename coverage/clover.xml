@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1600040831466" clover="3.2.0">
+  <project timestamp="1600040831466" name="All files">
+    <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3" elements="12" coveredelements="9" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="Home.vue" path="C:\Workspace\free\sindico_net\src\views\Home.vue">
+      <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="48" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>

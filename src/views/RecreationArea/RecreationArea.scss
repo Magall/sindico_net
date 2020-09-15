@@ -1,0 +1,12 @@
+.file{
+    input[type="file"]{
+       display: none;
+    }
+    label{
+        border:1px solid red;
+        padding:12px;
+        color:red;
+        margin-top: 14px;
+        display: block;
+    }
+}

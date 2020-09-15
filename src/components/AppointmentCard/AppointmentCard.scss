@@ -1,0 +1,17 @@
+#appointment{
+    background: #bbdefb;
+  
+    ul{
+        list-style-type: none;
+        padding-left: 0;
+        padding:8px;
+        text-align: left;
+        li{
+            padding: $small-spacing;
+            span{
+                font-weight: bold;
+            }
+        }
+        
+    }
+}
